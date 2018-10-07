@@ -2,6 +2,6 @@ Golang website boilerplate
 
 Dependencies:
 
-- golang routing: [go-chi](github.com/go-chi/chi)
+- golang routing: [go-chi](https://github.com/go-chi/chi)
 
-- Stylesheet (CSS): [tachyons.io](tachyons.io)
+- Stylesheet (CSS): [tachyons.io](https://tachyons.io)
