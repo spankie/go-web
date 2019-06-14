@@ -6,7 +6,7 @@ import (
 	"github.com/go-chi/chi"
 	"github.com/go-chi/chi/middleware"
 	log "github.com/sirupsen/logrus"
-	"github.com/spankie/odohidavid/handlers"
+	"github.com/spankie/go-web/handlers"
 )
 
 func main() {
